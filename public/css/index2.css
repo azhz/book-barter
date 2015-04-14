@@ -1,0 +1,19 @@
+.intro
+{
+    color: #ffffff;
+    text-align: center;
+    background-image: linear-gradient(to bottom,#008cba 0,#00addc 100%);
+    padding: 80px;
+}
+
+.comic
+{
+    margin-bottom: 2em;
+}
+.footer
+{
+
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+
+}

@@ -1,0 +1,73 @@
+
+.intro
+{
+
+
+    text-align: center;
+    background-color: transparent;
+    border: 1px solid #0089B2;
+    font-weight: 100;
+
+
+}
+
+.intro h2 {
+    font-family: "Open Sans","Helvetica Neue","Helvetica",Helvetica,Arial,sans-serif;
+    color: #00addc;
+    margin: auto;
+    text-align: center;
+    font-weight: 100;
+    font-size: 40px;
+    line-height: 2em;
+
+}
+
+
+.intro h4
+{
+
+    text-align: center;
+    font-size: 24px;
+    font-weight: 100;
+    color: dimgrey;
+
+}
+
+.navbar-inverse
+{
+    background: transparent;
+    border: none;
+
+
+}
+.brand
+{
+    font-size: 2em;
+    color: #0089B2;
+
+}
+
+.menu
+{
+   font-size: 1.3em;
+    color: #00addc;
+
+}
+.comic
+{
+    margin-bottom: 2em;
+}
+.footer
+{
+
+    background-color: #f8f8f8;
+    border: 1px solid #e7e7e7;
+
+}
+
+.active
+{
+    border-bottom: inset #00addc;
+
+}
+
